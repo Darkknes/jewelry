@@ -1,2 +1,3 @@
 # jewelry
-jewelry_project
+Еhe assembled project is here
+https://github.com/Darkknes/jewelry/tree/master
